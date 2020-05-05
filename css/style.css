@@ -23,6 +23,15 @@ p {
     font-family:
 }
 
-img {
-    margin-bottom: 20px;  /* distância da margem à da parte de baixo da img*/
+footer {
+    margin-bottom:30px;
+}
+
+.img_padrão {
+    margin-bottom= 20px;
+    width: 300px;
+}
+
+.logo {
+    width:30px;
 }
