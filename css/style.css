@@ -1,3 +1,28 @@
 body {
-    background-color:# ;
+    background-color:#F3E2A9;
+    margin-left:100px;   /* distância da margem à esquerda*/
+    margin-right: 200px;; /* distância da margem à direita*/
+}
+
+header {
+    margin-top: 70px;  /* distância da margem à da parte de cima do elemento*/
+}
+
+h1 {
+    color: black;
+    font-family: cursive;
+}
+
+h2 {
+    color:black;
+    font-family: cursive;
+}
+
+p {
+    font-size: 18px;
+    font-family:
+}
+
+img {
+    margin-bottom: 20px;  /* distância da margem à da parte de baixo da img*/
 }
