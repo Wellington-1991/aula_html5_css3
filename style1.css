@@ -1,7 +1,7 @@
 body {
     background-color: white;
-    margin-left:100px;   /* distância da margem à esquerda*/
-    margin-right: 200px;; /* distância da margem à direita*/
+    margin-left: 0;   /* distância da margem à esquerda*/
+    margin-right: 0;; /* distância da margem à direita*/
 }
 
 header {
@@ -29,7 +29,7 @@ footer {
 
 .img_padrão {
     margin-bottom= 20px;
-    width: 300px;
+    width: 100px;
 }
 
 .logo {
@@ -37,8 +37,11 @@ footer {
 }
 /* Definindo cor dentro do Menu, zerando a margin e retirando as marcações*/
 #menu ul{
+   padding: 5px 10px 5px 10px;
    margin: 0;
-   background-color: black;
+   width:100%;
+   height:80px;
+   background-color:black;
    list-style: none;
 }
 #menu ul li {
@@ -58,4 +61,12 @@ footer {
 
 #menu ul li a:hover {
     color: #000080;
+}
+
+#header {
+    padding: 5px 10px 5px 10px;
+    margin: 0px 2px 0px 2px;
+    width:100%;
+    height:500px;
+    background-color:lightblue;
 }
