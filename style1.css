@@ -1,11 +1,11 @@
 body {
     background-color: white;
     margin-left: 0;   /* distância da margem à esquerda*/
-    margin-right: 0;; /* distância da margem à direita*/
+    margin-right: 0; /* distância da margem à direita*/
 }
 
 header {
-    margin-top: 70px;  /* distância da margem à da parte de cima do elemento*/
+    margin-top: -21px;  /* distância da margem à da parte de cima do elemento*/
 }
 
 h1 {
@@ -28,7 +28,7 @@ footer {
 }
 
 .img_padrão {
-    margin-bottom= 20px;
+    margin-bottom= 50px;
     width: 100px;
 }
 
@@ -64,9 +64,41 @@ footer {
 }
 
 #header {
-    padding: 5px 10px 5px 10px;
-    margin: 0px 2px 0px 2px;
+    padding: 0px;
+    margin: 0px;
     width:100%;
-    height:500px;
+    height:300px;
     background-color:lightblue;
 }
+
+#Serviços {
+    margin: 0px 0px 10px;
+    height: 300px;
+    width: 100%;
+    background-color: lightgreen
+}
+
+#Clientes {
+    height: 300px;
+    width: 100%;
+    background-color: lightgreen
+}
+
+#Parceiros {
+    height: 300px;
+    width: 100%;
+    background-color: lightgreen
+}
+
+#Time {
+    height: 300px;
+    width: 100%;
+    background-color: lightgreen
+}
+
+#Contato {
+    height: 300px;
+    width: 100%;
+    background-color: lightgreen
+}
+
